@@ -28,5 +28,17 @@ A fun and interactive dice game developed in Python. The PIG game is a two-playe
    ```bash
    git clone https://github.com/Syedali551998/pig-game.git
 
-cd pig-game
+
+## How to Play
+ python pig_game.py
+
+
+## Screenshot
+
+
+
+## Technologies Used
+ Python
+ Git
+
 
